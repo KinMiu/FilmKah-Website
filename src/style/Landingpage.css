@@ -1,0 +1,47 @@
+.my-bg {
+  height: 100vh;
+  background: url('../assets/bg/wallpaperflare.com_wallpaper.jpg');
+  background-size: cover;
+}
+
+.intro {
+  height: 300px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: bolder;
+  line-height: 1;
+  text-align: center;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: url('../assets/bg/geometric-neon-lights-abstract_7680x5120_xtrafondos.com.jpg');
+  background-size: cover;
+}
+
+.movieImage {
+  height: auto;
+  margin: 5px;
+  padding: 5px;
+}
+
+.images {
+  height: 500px;
+}
+
+.text-center {
+  font-weight: bold;
+}
+
+.Heroes {
+  height: auto;
+  background: url('../assets/bg/wallpaperflare.com_wallpaper\(1\).jpg');
+  background-size: cover;
+}
